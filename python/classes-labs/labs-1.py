@@ -1,3 +1,4 @@
+# part 1
 class Student:
     def __init__(self, name, age):
         self.name = name
@@ -9,3 +10,6 @@ student2 = Student("tom", 21)
 
 print(f"The age of {student1.name} is {student1.age} years.")
 
+# part 2
+
+# part 3

@@ -56,10 +56,3 @@
 
 #challenge5
 
-def convert_upper(word):
-  return word.upper()
-
-user_input =("enter a word: ")
-
-result = convert_upper(user_input)
-print("uppercase:" , result)
